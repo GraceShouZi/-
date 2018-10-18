@@ -1,0 +1,3 @@
+.top{ height: 50rpx; line-height: 50rpx; white-space: nowrap; padding:10rpx 20rpx; margin-bottom: 10rpx; position: relative;
+background: #f00; color: #fff;}
+.lc_icon{ width: 40rpx; float: left; position: relative; top:6rpx;}

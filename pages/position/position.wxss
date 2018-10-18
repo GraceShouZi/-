@@ -1,0 +1,2 @@
+.weizhi{ width:56rpx; height: 40rpx; white-space: nowrap; padding:0 20rpx; margin-bottom: 10rpx; position: relative;}
+.weizhi button{ opacity: 0; width: 56rpx; white-space: nowrap; position: absolute; top: 0; left: 20rpx;}

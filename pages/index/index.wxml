@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <view class='top address' bindtap='moveToLocation'>
+    <image src="../../images/location.png" class='lc_icon' mode='widthFix'></image>
+    <text>{{address}}</text>
+  </view>
+</view>
