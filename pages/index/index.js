@@ -16,7 +16,7 @@ Page({
   listenerBtnGetLocation:function(){
     var that = this;
     qqmapsdk = new QQMapWX({
-      key: 'JUJBZ-3AKK6-XV6SU-EQE7C-RAHOV-FTBO5'
+      key: '自己申请的KEY'
     });
     qqmapsdk.reverseGeocoder({
       success: function (res) {
