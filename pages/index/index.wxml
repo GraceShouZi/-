@@ -4,4 +4,18 @@
     <image src="../../images/location.png" class='lc_icon' mode='widthFix'></image>
     <text>{{address}}</text>
   </view>
+  <view class='main'>
+    <view class='main_top'><image src='https://img3.doubanio.com/view/photo/m/public/p2536265632.jpg'></image></view>
+    <view class='main_dsc'>
+      <view class='floatL main_dsc_left'>
+        <view class='main_dsc_title'>标题</view>
+        <view class='main_dsc_font'>描述描述描述描述描述描述</view>
+      </view>
+      <view class='floatR main_dsc_right'>
+        <text>分享</text>
+        <button class='share' id="shareBtn" open-type="share" type="primary" hover-class="other-button-hover">
+      </button>
+      </view>
+    </view>
+  </view>
 </view>
